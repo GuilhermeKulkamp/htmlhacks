@@ -1,8 +1,8 @@
 # Dicas e truques do HTML: Como construir melhores sites
 
-[![GitHub](https://img.shields.io/github/license/GuilhermeKulkamp/repo.svg)](https://github.com/GuilhermeKulkamp/repo/blob/master/LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/GuilhermeKulkamp/repo.svg)](https://github.com/GuilhermeKulkamp/repo/commits/master)
-[![GitHub issues](https://img.shields.io/github/issues/GuilhermeKulkamp/repo.svg)](https://github.com/GuilhermeKulkamp/repo/issues)
+[![GitHub](https://img.shields.io/github/license/GuilhermeKulkamp/htmlhacks.svg)](https://github.com/GuilhermeKulkamp/htmlhacks/blob/master/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/GuilhermeKulkamp/htmlhacks.svg)](https://github.com/GuilhermeKulkamp/htmlhacks/commits/master)
+[![GitHub issues](https://img.shields.io/github/issues/GuilhermeKulkamp/htmlhacks.svg)](https://github.com/GuilhermeKulkamp/htmlhacks/issues)
 
 Bem-vindo ao repositório **Dicas e truques do HTML**! Aqui você encontrará uma coleção de dicas, truques e exemplos para construir melhores sites usando HTML. Se você é iniciante e está começando com desenvolvimento web ou é um desenvolvedor experiente procurando aprimorar suas habilidades, este repositório tem algo para você.
 
