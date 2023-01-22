@@ -1,23 +1,77 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Modelo de website em HTML</title>
+
+    <style>
+        /* Estilos básicos para o site */
+        body {
+          font-family: Arial, sans-serif;
+          margin: 0;
+          padding: 0;
+        }
+        header {
+          background-color: #f1f1f1;
+          display: flex;
+          justify-content: space-between;
+          padding: 10px;
+        }
+        header img {
+          height: 50px;
+        }
+        header nav {
+          display: flex;
+        }
+        header nav ul {
+          list-style: none;
+          margin: 0;
+          padding: 0;
+        }
+        header nav ul li {
+          margin-left: 10px;
+        }
+        header nav a {
+          color: #000;
+          text-decoration: none;
+        }
+        main {
+          padding: 20px;
+        }
+        footer {
+          background-color: #f1f1f1;
+          padding: 10px;
+          text-align: center;
+        }
+      </style>
+  
+
 </head>
 <body>
-    <header>
-        <div></div>
-        <nav>
 
+    <!-- Cabeçalho com logo e menu -->
+    
+    <header>
+        <img src="logo.png" alt="Logo do site">
+        <nav>
+          <ul>
+            <li><a href="#sobre">Sobre</a></li>
+            <li><a href="#produtos">Produtos</a></li>
+            <li><a href="#contato">Contato</a></li>
+          </ul>
         </nav>
     </header>
+
+    <!-- Conteúdo da página -->
+
     <main>
-
+        <h1>Bem-vindo ao meu site simples</h1>
+        <p>Este é um exemplo de layout de página.</p>
     </main>
+  
+    <!-- Rodapé -->
+  
     <footer>
-
-    </footer>
-</body>
+        <p>Copyright © 2023 Meu Site Simples</p>
+      </footer>
+  </body>
 </html>
